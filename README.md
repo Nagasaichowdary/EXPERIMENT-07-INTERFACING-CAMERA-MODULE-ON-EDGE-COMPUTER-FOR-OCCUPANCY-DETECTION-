@@ -1,5 +1,7 @@
-# EXPERIMENT-07-INTERFACING-CAMERA-MODULE-ON-EDGE-COMPUTER-FOR-OCCUPANCY-DETECTION-
-
+# EXPERIMENT-06-INTERFACING-CAMERA-MODULE-ON-EDGE-COMPUTER-FOR-OCCUPANCY-DETECTION-
+## Name: POPURI ADITYA NAGA SAI
+## REG NO: 212223110036
+## DATE: 02.09.2026
 
 ### AIM:
 To interface a USB/CSI camera module with an edge computing platform (e.g., Raspberry Pi, Jetson Nano, etc.) and implement an occupancy detection system using the Histogram of Oriented Gradients (HOG) algorithm.
@@ -91,11 +93,15 @@ cv2.destroyAllWindows()
 
 ### SCREEN SHOTS OF OUTPUT 
 
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/421f4676-75ba-4179-bc87-a5bf0df2a957" />
+
 
 
 
 
 ### RASPI INTERFACE 
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/f273d00d-b4c0-438a-a706-d7d5ba8f6ca8" />
 
 
 
